@@ -13,18 +13,18 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Extremely m
 
 ## 🤝 Connect with me:
 - [LinkedIn](www.linkedin.com/in/aïcha-imène-dahoumane)
-- Discord: 
+- Discord: @aiyeesha
 
 ## 🛠️ Languages and Tools:
 ![SALESFORCE](https://img.shields.io/badge/-Salesforce-yellow?style=flat-square&logo=salesforce)
 ![VSCODE](https://img.shields.io/badge/-vscode-orange?style=flat-square&logo=vscode)
-![VMWARE](https://img.shields.io/badge/-Vmware-black?style=flat-square&logo=gnu-vmware)
+![VMWARE](https://img.shields.io/badge/-Vmware-blue?style=flat-square&logo=gnu-vmware)
 ![WINDOWS](https://img.shields.io/badge/-Windows-gray?style=flat-square&logo=windows)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postegresql)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
