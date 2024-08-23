@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aïcha Imène DAHOUMANE
-Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Through my diverse projects and collaborative endeavors, I aim to make a meaningful impact on the technology landscape and continuously broaden my technical expertise.
+Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Extremely motivated to develop constantly my skills and development professionally. Through my diverse projects and collaborative endeavors, I aim to make a meaningful impact on the technology landscape and continuously broaden my technical expertise.
 
 ## 🚀 About Me
 - 🌱 I’m currently working on:
@@ -16,6 +16,11 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Through my 
 - Discord: 
 
 ## 🛠️ Languages and Tools:
+![SALESFORCE](https://img.shields.io/badge/-Salesforce-yellow?style=flat-square&logo=salesforce)
+![VSCODE](https://img.shields.io/badge/-vscode-orange?style=flat-square&logo=vscode)
+![VMWARE](https://img.shields.io/badge/-Vmware-black?style=flat-square&logo=gnu-vmware)
+![WINDOWS](https://img.shields.io/badge/-Windows-gray?style=flat-square&logo=windows)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postegresql)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-square&logo=linux)
@@ -25,3 +30,5 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Through my 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+
+
