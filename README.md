@@ -1,4 +1,4 @@
-# Hi 👋, I'm Aïcha Imène DAHOUMANE
+# Hi 👋, I'm Aïcha
 Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Extremely motivated to develop constantly my skills and development professionally. Through my diverse projects and collaborative endeavors, I aim to make a meaningful impact on the technology landscape and continuously broaden my technical expertise.
 
 ## 🚀 About Me
