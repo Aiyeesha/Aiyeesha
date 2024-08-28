@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Extremely m
 ## 🚀 About Me
 - 🌱 I’m currently working on:
   -
-  -
-  - 
+  - Poch’Lib (Designing an application's frontend interface)
+  - Wirebrite Consulting (Migrating Visualforce Pages to Lightning)
   -
   - 
 
