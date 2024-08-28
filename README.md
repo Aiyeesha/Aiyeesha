@@ -3,18 +3,17 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Extremely m
 
 ## 🚀 About Me
 - 🌱 I’m currently working on:
-  -
+  
   - Poch’Lib (Designing an application's frontend interface)
   - Wirebrite Consulting (Migrating Visualforce Pages to Lightning)
   -
   - 
 
-- 📫 How to reach me: [ai.dahoumane@gmail.com](mailto:ai.dahoumane@gmail.com)
-
 ## 🤝 Connect with me:
 - [LinkedIn](www.linkedin.com/in/aïcha-imène-dahoumane)
 - Discord: @aiyeesha
-
+- 📫 How to reach me: [ai.dahoumane@gmail.com](mailto:ai.dahoumane@gmail.com)
+  
 ## 🛠️ Languages and Tools:
 ![SALESFORCE](https://img.shields.io/badge/-Salesforce-yellow?style=flat-square&logo=salesforce)
 ![VSCODE](https://img.shields.io/badge/-vscode-orange?style=flat-square&logo=vscode)
