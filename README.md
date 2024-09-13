@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris. Extremely m
 ## 🚀 About Me
 - 🌱 I’m currently working on:
   
-  - Poch’Lib (Designing an application's frontend interface)
-  - Wirebrite Consulting (Migrating Visualforce Pages to Lightning)
-  -
-  - 
+  - Wirebrite Consulting - EGManufacture (Migrating Visualforce Pages to Lightning)
+  - Avenir TELECOM (Enhance Efficiency with a Custom Lightning App)
+  - LD DIGITALES (Custom Lightning App with PostgreSQL database)
 
 ## 🤝 Connect with me:
 - [LinkedIn](www.linkedin.com/in/aïcha-imène-dahoumane)
