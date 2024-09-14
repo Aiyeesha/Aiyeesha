@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris, with a back
 
 ## 🛠️ Languages and Tools:
 ![SALESFORCE](https://img.shields.io/badge/-Salesforce-yellow?style=flat-square&logo=salesforce)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) 
