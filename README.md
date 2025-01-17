@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris, with a back
 - 💼 Former Junior System and Network Administrator, now a Salesforce Developer.
 - 🌱 I’m currently working on:
   
-  - **Wirebrite Consulting - EG Manufacture:** Migrating Visualforce Pages to Lightning
   - **Avenir TELECOM:** Enhancing efficiency with a custom Lightning App
+  - **SFQUAL - FASHA:** Optimizing an Apex backend
   - **LD DIGITALES:** Building a custom Lightning App with PostgreSQL database integration
 
 ## 🤝 Connect with me:
