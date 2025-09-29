@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="og-banner" src="https://github.com/user-attachments/assets/230fd749-a504-4124-9c6e-1f35b5226198" />
+
+
 # Hi 👋, I'm Aïcha
 
 Welcome to my GitHub profile! I'm a Salesforce Developer from Paris, with a background as a Junior System and Network Administrator. My journey in technology started in administration, but I have since transitioned into Salesforce development. I am extremely motivated to continuously develop my skills and grow professionally. Through my diverse projects and collaborations, I aim to make a meaningful impact on the technology landscape and expand my technical expertise.
@@ -6,7 +9,7 @@ Welcome to my GitHub profile! I'm a Salesforce Developer from Paris, with a back
 - 💼 Former Junior System and Network Administrator, now a Salesforce Developer.
 - 🌱 I’m currently working on:
   
-  - **SFQUAL - FASHA:** Optimizing an Apex backend
+  - **LEGARANT - AXG:** Optimizing an Apex backend
   - **LD DIGITALES:** Building a custom Lightning App with PostgreSQL database integration
 
 ## 🤝 Connect with me:
