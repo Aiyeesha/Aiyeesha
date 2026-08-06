@@ -1,17 +1,14 @@
 # Hi 👋, I'm Aïcha
 
-Welcome to my GitHub profile! I'm a Salesforce Developer from Paris, with a background as a Junior System and Network Administrator. My journey in technology started in administration, but I have since transitioned into Salesforce development. I am extremely motivated to continuously develop my skills and grow professionally. Through my diverse projects and collaborations, I aim to make a meaningful impact on the technology landscape and expand my technical expertise.
+Welcome to my GitHub profile! I have a hybrid profile spanning Salesforce Development and System & Network Administration. My journey in technology started in administration, and I've since built strong expertise in Salesforce development. I am extremely motivated to continuously develop my skills and grow professionally, and I'm currently open to new opportunities that make the most of this dual background.
 
 ## 🚀 About Me
-- 💼 Former Junior System and Network Administrator, now a Salesforce Developer.
-- 🌱 I’m currently working on:
-  
-  - **LEGARANT - AXG:** Optimizing an Apex backend
-  - **LD DIGITALES:** Building a custom Lightning App with PostgreSQL database integration
+- 💼 Hybrid profile: Salesforce Developer with a background as a Junior System and Network Administrator.
+- 🔎 Currently open to new opportunities — Salesforce development, IT/sysadmin roles, or hybrid positions.
 
 ## 🤝 Connect with me:
-- [LinkedIn](www.linkedin.com/in/aïcha-imène-dahoumane)
-- 📫 How to reach me: [ai.dahoumane@gmail.com](mailto:ai.dahoumane@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aïcha-imène-dahoumane)
+- 📫 How to reach me: [ai.dahoumane@proton.me](mailto:ai.dahoumane@proton.me)
 
 ## 🛠️ Languages and Tools:
 ![SALESFORCE](https://img.shields.io/badge/-Salesforce-yellow?style=flat-square&logo=salesforce)
